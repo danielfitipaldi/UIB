@@ -11,7 +11,8 @@ public class HelloWorld {
 		
 		System.out.println("Hello, " + nome + "!" );
 		
-
+		leTeclado.close();
+		
 	}
 
 }
