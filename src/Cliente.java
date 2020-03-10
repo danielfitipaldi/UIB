@@ -1,8 +1,8 @@
 
 public class Cliente {
-	public String nome;
-	public String cpf;
-	public Conta conta;
+	private String nome;
+	private String cpf;
+	private Conta conta;
 	
 	public String getNome() {
 		return nome;
